@@ -1,11 +1,4 @@
-# Новини світу — React + TypeScript + Zustand (no server)
-
-## Чому це працює без сервера
-Використано **The Guardian Open Platform** (публічний API з CORS). Для демо достатньо `api-key=test`.
-За потреби додай `.env` з власним ключем:
-```
-VITE_GUARDIAN_API_KEY=твой_ключ
-```
+Новини світу — React + TypeScript + Zustand (no server)
 
 ## Запуск
 ```bash
